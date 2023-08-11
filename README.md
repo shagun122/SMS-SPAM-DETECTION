@@ -1,2 +1,2 @@
 # SMS-SPAM-DETECTION
-This repository contains ML model that help to detect spam message . Model build by using Naive Byes classifier &amp; it gives accuracy &amp; precision of 97%.
+An ML model that assists with spam message detection is present in this repository. A model created with a variety of algorithms, but with a primary focus on the Naive Byes Classifier, which provides accuracy and precision of 97%. VotingClassifier & Stacking are used to base the model.
